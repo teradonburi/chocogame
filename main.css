@@ -1,0 +1,33 @@
+.maid {
+  width: 100px;
+  height: 120px;
+}
+
+.children {
+  width: 150px;
+  height: 120px;
+}
+
+.choco {
+  width: 50px;
+  height: 50px;
+}
+
+.gomi {
+  width: 50px;
+  height: 50px;
+}
+
+.comment {
+  background-image: url('./comment.png');
+  background-size: 100px 50px;
+  width: 100px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rect {
+  border: solid 0.1rem black;
+}
